@@ -2,9 +2,11 @@
 
 ## Living in Mexico 🇲🇽
 
-## Main Skill: Frontend and Backend Web Development 🎖️
+## Main Skill: Frontend and Backend Web Development 🌐
 
-## Learning Skill: Testing 🛹
+## Secondary Skill: Testing 🧪
+
+## Learning Skill: Cloud in AWS ☁️
 
 <a href="https://app.daily.dev/miguel_angel_reyes_moreno"><img src="./devcard.png" width="356" alt="Miguel Dev Card"/></a>
 
