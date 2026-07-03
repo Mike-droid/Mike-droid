@@ -20,5 +20,6 @@ I have experience with:
 - JavaScript
 - Jest
 - Python
+- AWS
 
 You can find all my social media on [Linktree](https://linktr.ee/miguel_angel_reyes_moreno)
